@@ -10,6 +10,4 @@ order: 4
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+**Hi Sally!**, i love you!
